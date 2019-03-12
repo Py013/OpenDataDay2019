@@ -3,7 +3,7 @@ Analises realizadas no OpenDataday
 
 ### Prouni
 
-Umas das análises realizadas no OpenDataDay 2019, foi coleta, tratamento e interpretação dos dados do PROUNI. 
+Umas das análises realizadas no OpenDataDay 2019, foi coleta, tratamento e interpretação dos dados do PROUNI.\n
 O PROUNI é um programa do Ministério da Educação, criado pelo Governo Federal em 2004, que oferece bolsas de estudo integrais e parciais (50%) em instituições privadas de educação superior.
 
 Os dados foram coletados no portal brasileiro de dados abertos (link)
