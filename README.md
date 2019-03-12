@@ -13,5 +13,3 @@ O resultado dessa pesquisa foi apresentado pode ser acesso.
 [Análise Prouni](https://github.com/JoaoCarlosSantos/OpenDataDay2019/blob/master/Prouni.ipynb)
 
 Neste primeiro momento foi considerado apenas o munícipio de Santos-SP. 
-
-### Tribunal de Contas do Estado de São Paulo (TCE)
