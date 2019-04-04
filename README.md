@@ -13,3 +13,11 @@ O resultado dessa pesquisa foi apresentado pode ser acesso.
 [Análise Prouni](https://github.com/JoaoCarlosSantos/OpenDataDay2019/blob/master/Prouni.ipynb)
 
 Neste primeiro momento foi considerado apenas o munícipio de Santos-SP. 
+
+### TCE-SP
+
+Outro objeto de análise foram os gastos do múnicipio de Santos registrados no Tribunal de Contas do Estado (TCE).
+
+Os dados foram coletados diretamento do [Portal da Transparência do TCE](https://transparencia.tce.sp.gov.br/municipio/santos)
+
+Não foram realizadas análises muito aprofundadas mas o resultado por ser acessado [aqui](https://github.com/Py013/OpenDataDay2019/blob/master/Projeto%20de%20Analise%20de%20gastos%20prefeitura%20de%20Santos/analise_de_gastos_santos.ipynb)
